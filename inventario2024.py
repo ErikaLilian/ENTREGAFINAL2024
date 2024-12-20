@@ -221,4 +221,5 @@ def menu():
             print("Opción no válida. Intente nuevamente.")
 
 if __name__ == "__main__":
+    Menu()
     crear_tabla()  # Crea la tabla al iniciar el programa
